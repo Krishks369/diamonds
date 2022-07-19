@@ -11,7 +11,7 @@ jobs:
        with: 
          message: |
          
-                ##Conventional commits
+                **Conventional commits**
 
                 Our repositories follow [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/#summary) specification. Releasing to GitHub and NPM is done with the support of [semantic-release](https://semantic-release.gitbook.io/semantic-release/).
 
